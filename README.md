@@ -5,7 +5,7 @@ A comprehensive Bash script designed to rigorously test the `push_swap` project 
 This tester automates the process of generating numbers, running `push_swap`, checking the validity of the output with `checker`, evaluating the number of instructions, and checking for memory leaks with Valgrind.
 
   
-*(Note: This is a generic placeholder GIF. You can replace this with a screenshot or a GIF of your own tester in action!)*
+  ![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnloZHFiYmNvOTIxcjI1NzQ5YmMxcGtiaXA3Y2N0NDIwcjZya21keiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gw3IWyGkC0rsazTi/giphy.gif)
 
 ---
 
