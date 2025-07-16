@@ -39,14 +39,19 @@ It also provides detailed output files for deeper analysis.
     chmod +x push_swap_tester.sh
     ```
 
-3.  **Configure the test:** Open the script in a text editor and change the value of the `n` variable at the top to set the amount of numbers you want to test with.
+3.  **Make the checker executable:**
+    ```bash
+    chmod +x checker_linux
+    ```
+
+4.  **Configure the test:** Open the script in a text editor and change the value of the `n` variable at the top to set the amount of numbers you want to test with.
     ```bash
     # Amount of numbers to be generated
     n=500
     ```
     The script has built-in instruction checks for `n=5`, `n=100`, and `n=500`.
 
-4.  **Run the tester:**
+5.  **Run the tester:**
     ```bash
     ./push_swap_tester.sh
     ```
